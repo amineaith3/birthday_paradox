@@ -1,4 +1,4 @@
-# birthday_paradox
+# The birthday paradox :
 When sitting with friends, sometimes we start our talk about out birthdays, 
 the first thing that comes to our mind is that we won't have the same birthday,
 the second thing that comes to our mind is that 'if the group was more than 366 persons,
